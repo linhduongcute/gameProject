@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1716372868 source:d:\gameproject\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"initScreen.h"
+	"renderScreen.h"
+	"class.h"
+	"collisionDetection.h"
+	"text.h"
+	"sound.h"
+
+1713410410 d:\gameproject\commonvariables.h
+
+1716274356 d:\gameproject\initscreen.h
+	<SDL.h>
+
+1716373014 source:d:\gameproject\initscreen.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"initScreen.h"
+
+1716372846 source:d:\gameproject\renderscreen.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"collisionDetection.h"
+	"class.h"
+	"renderScreen.h"
+	"text.h"
+
+1716282951 d:\gameproject\renderscreen.h
+	"class.h"
+
+1714231521 source:d:\gameproject\fps.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"class.h"
+
+1713454978 source:d:\gameproject\logic.cpp
+	<iostream>
+	<chrono>
+	<thread>
+
+1713883827 source:d:\gameproject\class.cpp
+
+1716284879 d:\gameproject\class.h
+	<random>
+	"initScreen.h"
+	"renderScreen.h"
+
+1714294651 source:d:\gameproject\collinsiondetection.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"class.h"
+	"collinsionDetection.h"
+
+1714294651 d:\gameproject\collinsiondetection.h
+
+1716372846 source:d:\gameproject\collisiondetection.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"class.h"
+	"collisionDetection.h"
+	"renderScreen.h"
+	"sound.h"
+
+1716129130 d:\gameproject\collisiondetection.h
+	"initScreen.h"
+
+1715575408 d:\gameproject\text.h
+
+1716030099 source:d:\gameproject\text.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1716373059 source:d:\gameproject\sound.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<iostream>
+	"sound.h"
+
+1716373059 d:\gameproject\sound.h
+	<SDL.h>
+	<SDL_mixer.h>
+
