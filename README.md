@@ -5,7 +5,7 @@
 + Họ và tên: Ngô Thị Thảo Linh.
 + Mã sinh viên: 23020620.
 + Lớp khóa học: K68N.
-+ Ngành: Mạng máy tính và truyền thongo dữ liệu.
++ Ngành: Mạng máy tính và truyền thông dữ liệu.
 + Khoa: Công nghệ thông tin.
 + Trường: Đại học Công Nghệ - Đại học Quốc gia Hà Nội (UET-VNU).
 
